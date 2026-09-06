@@ -1,0 +1,17 @@
+{
+  "name": "infinite-polyrhythm-visualizer-tutorial",
+  "version": "1.0.0",
+  "description": "A simplified polyrhythm visualizer generator, built for a tutorial video.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bloop Loop",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "wav-decoder": "^1.3.0",
+    "wav-encoder": "^1.3.0"
+  }
+}

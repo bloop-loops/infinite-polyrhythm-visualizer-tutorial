@@ -1,0 +1,8 @@
+node_modules/
+
+follow-along/output/*
+!follow-along/output/.gitkeep
+complete/output/*
+!complete/output/.gitkeep
+
+.DS_Store
