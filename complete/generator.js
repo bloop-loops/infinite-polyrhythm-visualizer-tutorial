@@ -173,7 +173,7 @@ async function generate() {
   fs.writeFileSync("./output/audio.wav", Buffer.from(encodedAudio));
 
   console.log("Combining frames and audio...");
-  const outputFilename = `./output/${RHYTHMS.join(":")}_polyrhythm.mp4`;
+  const outputFilename = `./output/${RHYTHMS.join("_")}_polyrhythm.mp4`;
 
   execSync(
     `ffmpeg -y -framerate ${FPS} -i ./output/frames/frame_%05d.png -i ./output/audio.wav -c:v libx264 -pix_fmt yuv420p -c:a aac -shortest ${outputFilename}`,
