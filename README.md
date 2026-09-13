@@ -1,7 +1,7 @@
 # Infinite Polyrhythm Visualizer Tutorial
 
 - Channel [Bloop Loops](https://www.youtube.com/@BloopLoops)
-- Tutorial video: [coming soon](#)
+- Tutorial video: [Build Your Own Polyrhythm Visualizer](https://www.youtube.com/watch?v=dF-0zi_3HmQ&feature=youtu.be)
 
 Create your own polyrhythm visualizer similar to the one seen here:
 
@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Links
 
 - YouTube channel: [Bloop Loops](https://www.youtube.com/@BloopLoops)
-- Tutorial video: [coming soon](#)
+- Tutorial video: [Build Your Own Polyrhythm Visualizer](https://www.youtube.com/watch?v=dF-0zi_3HmQ&feature=youtu.be)
 
 ## Contact
 
